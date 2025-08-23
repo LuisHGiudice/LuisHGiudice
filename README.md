@@ -29,8 +29,8 @@ Sou motivado por desafios, gosto de aprender continuamente e acredito que a tecn
 ---
 
 ## 📫 Contato  
-- 💼 [LinkedIn](www.linkedin.com/in/luisgiudice)  
-- 📧 Email: _(luisgiudicee@gmail.com)_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisgiudice)
+- 📧 Email: [luisgiudicee@gmail.com](mailto:luisgiudicee@gmail.com)
 
 ---
 
