@@ -10,12 +10,12 @@
 
 ## 🚀 Sobre mim  
 
-Meu nome é **Luís Henrique Giudice Ferreira**, tenho 19 anos e sempre fui apaixonado por tecnologia.  
-Desde pequeno, tive curiosidade em entender como softwares e sistemas funcionam, e isso me levou a seguir carreira na área de **Computação**.  
+Meu nome é **Luís Henrique Giudice Ferreira**, tenho 19 anos e sempre tive interesse em tecnologia.
+Desde pequeno, buscava entender como softwares e sistemas funcionam, o que me levou a seguir carreira na área de **Computação**.  
 
 Durante minha formação técnica em Administração, desenvolvi habilidades organizacionais e de gestão que hoje aplico no aprendizado e desenvolvimento de projetos em TI. Atualmente, curso **Ciência da Computação**, aprofundando meus conhecimentos em lógica, programação, redes e segurança digital.  
 
-Tenho experiência com **Java** e **Python**, linguagens que utilizo para explorar desde desenvolvimento de software até aplicações em **Inteligência Artificial**. Além disso, estou me especializando em **CyberSecurity** e **IA**, áreas que considero essenciais para o futuro da tecnologia.  
+Atualmente, estou aprendendo **Java** e **Python**, linguagens que utilizo para desenvolver minha base em programação e explorar aplicações em **Inteligência Artificial**. Além disso, estou me especializando em **CyberSecurity** e **IA**, áreas que considero essenciais para o futuro da tecnologia.  
 
 Sou motivado por desafios, gosto de aprender continuamente e acredito que a tecnologia é uma poderosa ferramenta para gerar impacto positivo no mundo.  
 
@@ -29,8 +29,8 @@ Sou motivado por desafios, gosto de aprender continuamente e acredito que a tecn
 ---
 
 ## 📫 Contato  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luisgiudice)
-- 📧 Email: [luisgiudicee@gmail.com](mailto:luisgiudicee@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/luisgiudice
+- 📧 Email: luisgiudicee@gmail.com
 
 ---
 
